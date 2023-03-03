@@ -199,6 +199,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\rocka\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["tokyodark.nvim"] = {
+    loaded = true,
+    path = "C:\\Users\\rocka\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\tokyodark.nvim",
+    url = "https://github.com/tiagovla/tokyodark.nvim"
+  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "C:\\Users\\rocka\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-fugitive",
